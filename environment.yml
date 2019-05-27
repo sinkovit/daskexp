@@ -4,7 +4,10 @@ channels:
 dependencies:
   - python
   - dask
+  - graphviz
   - pip
   - pip:
       - sklearn
+      - pandas
+      - matplotlib
   
