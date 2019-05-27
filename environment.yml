@@ -6,5 +6,5 @@ dependencies:
   - dask
   - pip
   - pip:
-      sklearn
+      - sklearn
   
