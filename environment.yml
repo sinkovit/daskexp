@@ -3,10 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
-  - sklearn
-  - graphviz
-  - pandas
-  - matplotlib
   - dask
   
