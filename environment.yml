@@ -4,4 +4,6 @@ channels:
 dependencies:
   - python
   - dask
+  - pip:
+      sklearn
   
