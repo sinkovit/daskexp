@@ -10,4 +10,6 @@ dependencies:
       - sklearn
       - pandas
       - matplotlib
+      - graphviz
+      - mkl
   
